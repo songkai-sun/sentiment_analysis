@@ -12,9 +12,6 @@ The project is organized as follows:
 - **README.md**: Documentation file with project details.
 - **requirements.txt**: Lists project dependencies.
 
-
-## Download Trained Model and Checkpoints
-
 ## Download Trained Model and Checkpoints
 
 The trained model and checkpoint files are too large to be stored directly in this repository. You can download them from the following links:
