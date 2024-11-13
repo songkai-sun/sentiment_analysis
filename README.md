@@ -1,6 +1,4 @@
-# sentiment_analysis
-
-# Sentiment Analysis Project
+# Sentiment Analysis
 
 This project uses a pre-trained BERT model for sentiment analysis. The model is trained to classify text into positive or negative sentiments.
 
