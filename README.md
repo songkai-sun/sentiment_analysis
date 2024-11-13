@@ -15,15 +15,17 @@ The project is organized as follows:
 
 ## Download Trained Model and Checkpoints
 
+## Download Trained Model and Checkpoints
+
 The trained model and checkpoint files are too large to be stored directly in this repository. You can download them from the following links:
 
-- [Download Best Trained Model (model.pth)](https://your-google-drive-link-for-model.com)
-- [Download Checkpoints (ckpts/ folder)](https://your-google-drive-link-for-ckpts.com)
+- [Download Pre-trained BERT Model (models--bert-base-chinese.zip)](https://your-google-drive-link-for-model.com)
+- [Download Checkpoints (model-0.pth.zip to model-3.pth.zip)](https://your-google-drive-link-for-ckpts.com)
 
 **Instructions**:
-1. Download the model and checkpoint files from the links above.
-2. Place the `model.pth` file in the `models/` directory.
-3. Place the `ckpts/` folder with all checkpoint files in the root directory of the project, so it matches the structure above.
+1. Download the files from the links above.
+2. Unzip `models--bert-base-chinese.zip` and place the contents in the `models/` directory.
+3. Unzip `model-0.pth.zip`, `model-1.pth.zip`, `model-2.pth.zip`, and `model-3.pth.zip`, and place the extracted `.pth` files in the `ckpts/` folder. Place the `ckpts/` folder with all checkpoint files in the root directory of the project, so it matches the structure above.
 
 ## Installation
 
